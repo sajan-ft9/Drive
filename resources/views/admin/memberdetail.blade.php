@@ -6,7 +6,7 @@
   <div class="card">
     <div class="card-body">
       <div class="text-center">
-        <h4 class="card-title">{{ $member->name }}'s Details</h4>
+        <h4 class="card-title">{{ $member->name }}'s Detail</h4>
       </div>
       <div class="table-responsive">
         <table class="table" style="color: white">
